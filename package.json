@@ -1,0 +1,19 @@
+{
+  "name": "gmod-discord-playercount",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kawaii",
+  "license": "n/a",
+  "dependencies": {
+    "discord.js": "^13.12.0",
+    "gamedig": "^3.0.9"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
