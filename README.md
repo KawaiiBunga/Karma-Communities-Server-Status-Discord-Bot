@@ -6,6 +6,10 @@
 - A discord bot
 - A game server supported by Gamedig (listed here: https://www.npmjs.com/package/gamedig)
 
+### **Dependancies -**
+- discord.js 13.12.0+
+- gamedig 3.0.9+
+
 ### **Installation -**
 1. Configure the index.js file to have your game server/bot parameters
 ![image](https://user-images.githubusercontent.com/107073565/208899748-c5e0672b-02a5-4193-8fec-2e943477119d.png)
