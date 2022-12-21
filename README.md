@@ -9,7 +9,6 @@
 ### **Installation -**
 1. Configure the index.js file to have your game server/bot parameters
 ![image](https://user-images.githubusercontent.com/107073565/208899748-c5e0672b-02a5-4193-8fec-2e943477119d.png)
-
 ![image](https://user-images.githubusercontent.com/107073565/208899933-18a414af-0a9f-4215-9c93-a798a6c7646e.png)
 
 2A. Run the bot in a terminal/command prompt with NodeJS
