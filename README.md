@@ -1,6 +1,9 @@
 # Karma-Communities-Server-Status-Discord-Bot
 ## This lightweight bot uses NodeJS, DiscordJS, and Gamedig to query your game server and display the player count as the status of the bot.
 
+![image](https://user-images.githubusercontent.com/107073565/213132696-41b4c62b-9319-4fe5-8c23-d1688808eceb.png)
+
+
 ### **Requirements -** 
 - NodeJS 16+
 - A discord bot
