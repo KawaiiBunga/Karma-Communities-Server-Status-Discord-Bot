@@ -38,7 +38,7 @@
 	
 ```"Status": "on KarmaRP - :playerCount/:maxPlayers"``` - Use :playerCount and :maxPlayers for # of players connected and max # of players who can join
 
-```"Presence": ":Online"``` -- ":Online", ":Idle", "DND"
+```"Presence": ":Online"``` -- ":Online", ":Idle", ":DND"
 
 ### **Running the Bot -**
 
