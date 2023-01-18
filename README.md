@@ -22,7 +22,7 @@
 
 ```"serverName": "KarmaRP"``` - Name of your server (Used in embeds AND console output)
 
-```"website": "https://krma.site/" - Your website (Used in embeds)```
+```"website": "https://krma.site/"``` - Your website (Used in embeds)
 
 ```"iconURL": "https://cdn.noclip.gg/ojdghuvWM9W_X2BV/z6UvrvLO8wjnIniLeGgjzfp0Dikqps-metaa2FybWEucG5n-.png"```- Icon URL (512x512 or less) (Used in embeds)
 
