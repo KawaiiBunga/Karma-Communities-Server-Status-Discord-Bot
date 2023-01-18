@@ -2,6 +2,7 @@
 ## This lightweight bot uses NodeJS, DiscordJS, and Gamedig to query your game server and display the player count as the status of the bot.
 
 ![image](https://user-images.githubusercontent.com/107073565/213132696-41b4c62b-9319-4fe5-8c23-d1688808eceb.png)
+![image](https://user-images.githubusercontent.com/107073565/213132811-1441f256-6eb5-4db8-8c79-ca2898437696.png)
 
 
 ### **Requirements -** 
