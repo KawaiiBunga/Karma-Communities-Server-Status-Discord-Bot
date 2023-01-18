@@ -16,7 +16,7 @@
 
 ```"token": ""``` - Discord Bot Token (https://docs.discordbotstudio.org/setting-up-dbs/finding-your-bot-token)
 
-```"serverName": "KarmaRP"``` - Name of your server (Used in embeds)
+```"serverName": "KarmaRP"``` - Name of your server (Used in embeds AND console output)
 
 ```"website": "https://krma.site/" - Your website (Used in embeds)```
 
