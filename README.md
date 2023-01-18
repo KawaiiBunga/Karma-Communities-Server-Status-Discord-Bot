@@ -10,22 +10,34 @@
 - discord.js 13.12.0+
 - gamedig 3.0.9+
 
-### **Installation -**
-1. Configure the index.js file to have your game server/bot parameters
-![image](https://user-images.githubusercontent.com/107073565/208899748-c5e0672b-02a5-4193-8fec-2e943477119d.png)
-![image](https://user-images.githubusercontent.com/107073565/208899933-18a414af-0a9f-4215-9c93-a798a6c7646e.png)
+### **Config Walkthrough -**
+1. Configure the config.json file to have your game server/bot parameters
+![image](https://user-images.githubusercontent.com/107073565/213130567-0dfaea69-7482-4e5b-b95c-e56e0bf53c29.png)
+
+  "token": "" - Discord Bot Token (https://docs.discordbotstudio.org/setting-up-dbs/finding-your-bot-token)
+
+  "serverName": "KarmaRP" - Name of your server (Used in embeds)
+	"website": "https://krma.site/" - Your website (Used in embeds)
+	"iconURL": "https://cdn.noclip.gg/ojdghuvWM9W_X2BV/z6UvrvLO8wjnIniLeGgjzfp0Dikqps-metaa2FybWEucG5n-.png" - Icon URL (512x512 or less) (Used in embeds)
+	"connectURL": "steam://connect/darkrp.krma.site" - (Used in embeds) (Can really be whatever you want it to be, the button says "Connect" though)
+
+	"clientId": "" - Bot Client ID (Client Id can be found on the first page, remember it's not the bot token)
+
+	"Game": "garrysmod" - Game compatibility list here: https://www.npmjs.com/package/gamedig#games-list
+	"serverIP": "45.61.170.100" - IP of your games server
+	"Port": "27015" - Port of your games server
+	
+	"Status": "on KarmaRP - :playerCount/:maxPlayers" - Use :playerCount and :maxPlayers for # of players connected and max # of players who can join
+	"Presence": ":Online" -- ":Online", ":Idle", "DND"
 
 2A. Run the bot in a terminal/command prompt with NodeJS
 - In a terminal or Command Prompt, run 
-```node index.js```
-- If the bot connects to your server, it will say "Bot initialized"
-![image](https://user-images.githubusercontent.com/107073565/208900459-a98b3584-a4ec-41c9-ae1f-4538bbdbce79.png)
+```node index.js``` or ```npm start```
+- If everything is configured correctly, your bots output should look like this:
+![image](https://user-images.githubusercontent.com/107073565/213130755-2daacb76-b479-446e-b496-3acdd2c87c6d.png)
 
-2B. Install with Docker
-- In a terminal or command prompt, run:
-``` docker build -t my-bot . ```
-- Then, run the conatainer with:
-``` docker run -d discord-bot ```
+Final result should look something like this:
+![image](https://user-images.githubusercontent.com/107073565/213130875-714302a7-9c3e-439f-b0b0-db23fd487a57.png)
 
-![image](https://user-images.githubusercontent.com/107073565/208900995-f527b1fd-abcf-4f5e-b967-efd7c8513f33.png)
 
+*slash commands being added later down the line for more functionality
