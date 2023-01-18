@@ -1,19 +1,30 @@
 {
-  "name": "gmod-discord-playercount",
-  "version": "1.0.0",
-  "description": "",
-  "main": "bot.js",
+  "name": "statusbot",
+  "version": "1.5.0",
+  "description": "Karma Communities Status Bot",
+  "main": "index.js",
   "scripts": {
-    "start": "node bot.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Kawaii",
-  "license": "n/a",
+  "license": "/",
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js",
+    "discordjs"
+  ],
   "dependencies": {
-    "discord.js": "^13.12.0",
-    "gamedig": "^3.0.9"
+    "discord.js": "^14.6.0",
+    "gamedig": "^4.0.6"
   },
   "engines": {
-    "node": ">=16"
+    "node": "16.x"
+  },
+  "repository": {
+    "url": ""
+  },
+  "devDependencies": {
+    "node": "^16.9.1"
   }
 }
