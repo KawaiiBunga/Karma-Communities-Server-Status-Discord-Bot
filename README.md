@@ -42,9 +42,11 @@
 
 ### **Running the Bot -**
 
-1. Run the bot in a terminal/command prompt with NodeJS (or PM2 with nodejs installed for linux)
+1. Install the dependencies by opening a terminal/cmd prompt in the folder your bot is located in and run ```npm install```
+
+2. Run the bot in a terminal/command prompt with NodeJS (or PM2 with nodejs installed for linux)
 - In a terminal or Command Prompt, run 
-```node index.js``` or ```npm start```
+```node index.js``` or ```npm start``` (for PM2, use ```pm2 start "npm start" --name "Whatever you wanna name this"```)
 - If everything is configured correctly, your bots output should look like this:
 ![image](https://user-images.githubusercontent.com/107073565/213130755-2daacb76-b479-446e-b496-3acdd2c87c6d.png)
 
