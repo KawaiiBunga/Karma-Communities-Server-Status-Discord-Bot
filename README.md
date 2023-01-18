@@ -6,7 +6,7 @@
 - A discord bot
 - A game server supported by Gamedig (listed here: https://www.npmjs.com/package/gamedig)
 
-### **Dependancies -**
+### **Dependencies -**
 - discord.js 14.0+
 - gamedig 3.0+
 
@@ -36,7 +36,9 @@
 
 ```"Presence": ":Online"``` -- ":Online", ":Idle", "DND"
 
-2A. Run the bot in a terminal/command prompt with NodeJS
+### **Running the Bot -**
+
+1. Run the bot in a terminal/command prompt with NodeJS (or PM2 with nodejs installed for linux)
 - In a terminal or Command Prompt, run 
 ```node index.js``` or ```npm start```
 - If everything is configured correctly, your bots output should look like this:
