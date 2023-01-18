@@ -1,0 +1,19 @@
+{
+  	"token": "", 
+  	"copyright": "Karma Communities",
+
+  	"serverName": "KarmaRP",
+	  "website": "https://krma.site/",
+	  "iconURL": "https://cdn.noclip.gg/ojdghuvWM9W_X2BV/z6UvrvLO8wjnIniLeGgjzfp0Dikqps-metaa2FybWEucG5n-.png",
+	  "connectURL": "steam://connect/darkrp.krma.site",
+
+	  "clientId": "",
+	  "guildId": "",
+
+	  "Game": "garrysmod",
+	  "serverIP": "45.61.170.100",
+	  "Port": "27015",
+	
+	  "Status": "on KarmaRP - :playerCount/:maxPlayers",
+	  "Presence": ":Online"
+}
