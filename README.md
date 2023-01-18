@@ -51,5 +51,19 @@
 Final result should look something like this:
 ![image](https://user-images.githubusercontent.com/107073565/213130875-714302a7-9c3e-439f-b0b0-db23fd487a57.png)
 
+### **Inviting the bot to your server -**
+
+1. Go to your bots dev app page and click "OAuth2" on the left side
+
+2. Under "OAuth2", click "URL Generator"
+
+3. Select scopes as shown in the below image
+
+4. Select bot permissions as shown in the below image
+
+5. Copy the link under the "Bot Permissions" box, paste it in your browser, login with Discord, and invite the bot to your server!
+![gitreadme](https://user-images.githubusercontent.com/107073565/213134525-ff29f242-25c8-4e29-ac7c-f348674a7053.png)
+
+
 
 *slash commands being added later down the line for more functionality
