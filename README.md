@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/107073565/213132811-1441f256-6eb5-4db8-8c79-ca2898437696.png)
 
 ### **Known Bugs -**
-- If your server goes offline while the bot is running, after a while it will flood Discord's API with a bunch of requests, causing your bot token to be reset. Currently working on this.
+- If your server goes offline while the bot is running, after a while it will flood Discord's API with a bunch of requests, causing your bot token to be reset. I'd suggest using https://github.com/KawaiiBunga/Game-Server-Discord-Bot-Disnake-PY instead
 
 ### **Requirements -** 
 - NodeJS 16+
